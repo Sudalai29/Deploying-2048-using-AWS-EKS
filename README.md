@@ -1,4 +1,3 @@
-First of all Special thanks Abhishek Veeramalla https://github.com/iam-veeramalla.
 Our plan here is to deploy the 2048 tile game using AWS EKS (Elastic Kubernetes Service) and Fargate, with Ingress and an ALB (Application Load Balancer) for the application. Here's a summary of the process, with some helpful commands and points to focus on:
 
 1. **AWS Account and Configuration**:
